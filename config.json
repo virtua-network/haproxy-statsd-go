@@ -1,0 +1,8 @@
+{
+    "HAproxyUsername": "username",
+    "HAproxyPassword": "password",
+    "HAproxyUrl": "http://localhost/;csv",
+    "StatsdAddr": ":8125",
+    "StatsdPrefix": "graphite.prefix.",
+    "SleepPeriod": 10
+}
